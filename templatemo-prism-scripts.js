@@ -31,6 +31,13 @@
                 description: 'A local network that is basicly the internet',
                 image: 'images/cyber-defense.jpg',
                 tech: ['C++', 'Discontiniued']
+            },
+            {
+                id: 5,
+                title: '// PRIVATE //',
+                description: '~ i cant post abt this srry ~',
+                image: 'images/:(.jpg',
+                tech: ['NA']
             }
         ];
 
